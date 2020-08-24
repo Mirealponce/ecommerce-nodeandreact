@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce-nodeandreact",
+  "version": "1.0.0",
+  "description": "project ecommerce with react and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mirealponce/ecommerce-nodeandreact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mirealponce/ecommerce-nodeandreact/issues"
+  },
+  "homepage": "https://github.com/Mirealponce/ecommerce-nodeandreact#readme",
+  "dependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.4",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
